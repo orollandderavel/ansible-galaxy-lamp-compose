@@ -1,0 +1,5 @@
+---
+- hosts: ubuntu-olivier.local
+#  remote_user: root
+  roles:
+    - lamp_compose

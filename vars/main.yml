@@ -1,0 +1,5 @@
+---
+# vars file for lamp_compose
+MYSQL_DATABASE: wordpress
+MYSQL_USER: wordpress
+MYSQL_PASSWORD: secret
